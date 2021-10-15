@@ -43,4 +43,4 @@ async def clear(ctx, amount : int): # По дефолту value стоит None 
 async def тест(ctx):
     await ctx.send('I am work blyat ☺')
 
-Vongex.run("ODk2OTU4ODQyNTMxODgwOTcw.YWOsBA.o4upk1ui44XErFWSmnPrwkPnW2k")
+Vongex.run("privet shluha")
